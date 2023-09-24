@@ -1,0 +1,9 @@
+Serie:0:BreakingBad:0:0:0:0:0:Fulanito, Sutanito:5:0:0.000000:0:0
+Episodio:1:ElInicio:58:Accion:1:1:Mengano:0:0:BreakingBad:0.000000:0.000000:0
+Episodio:2:LaTemporada2:59:Accion:2:1:Sutano:0:0:BreakingBad:0.000000:0.000000:0
+Episodio:3:LaTemporada3:60:Accion:3:1:Perengano:0:0:BreakingBad:0.000000:0.000000:0
+Episodio:4:LaTemporada4:55:Accion:4:1:Ana:0:0:BreakingBad:0.000000:0.000000:0
+Episodio:5:LaTemporada5:56:Accion:5:1:Andrea:0:0:BreakingBad:0.000000:0.000000:0
+
+Pelicula:6:JohnWick:128:Accion:0:0:0:Keanu Reeves, Mengano:0:0:0.000000:0.000000:0
+Pelicula:7:ForestGump:180:Romantica:0:0:0:Tom Hanks, Sutanita:0:0:9.200000:9.200000:1
